@@ -10,7 +10,7 @@
 #import "___VARIABLE_testedClass___.h"
 
 
-SpecBegin(___FILEBASENAMEASIDENTIFIER___)
+SpecBegin(___VARIABLE_testedClass___)
 
 describe(@"___VARIABLE_testedClass___", ^{
     
